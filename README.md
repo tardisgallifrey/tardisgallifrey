@@ -11,7 +11,7 @@ Public Repos:</br>
   
 </br>
 - 🔭 I’m currently working on creating a group of discrete GPIO programs for the Raspberry Pi to make it easier to code up control schemes.  I've built a few for Pin On and Pin Off and I'm working on functions/programs for the ADS1115/analog in and MCP4725/Analog out.
-- 🌱 I’m currently learning ...</br>
+</br>- 🌱 I’m currently learning ...</br>
       &#160;&#160;&#160;&#160;&#160;- C++, Go, .NET Core
       
 <!-- - 👯 I’m looking to collaborate on ...
