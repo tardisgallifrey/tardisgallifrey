@@ -12,6 +12,7 @@ Public Repos:</br>
   &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/webtestmysql</br>
    &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/gtkexamples3</br>
    &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/opengl</br>
+    &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/OpenTKNetCoreTutorial</br>
   
   
 </br>
