@@ -24,7 +24,7 @@ Public Repos:</br>
   
   
 </br>
-- 🔭 My interests,and thus lots of unfinished projects, are in Raspberry Pi SBC's, microcontrollers (Arduino, Adafruit, and PICO).  I code in Reactjs, C, C++, Java and anything else that pops up.  I like to build things that are visible on the web but with backends that I like.
+- 🔭 My interests,and thus lots of unfinished projects, are in Raspberry Pi SBC's and microcontrollers (Arduino, Adafruit, and PICO).  I code in Reactjs, C, C++, C#, Java and anything else that pops up.  I like to build things that are visible on the web but with backends that I like.
 - </br>
 
 </br>
