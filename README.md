@@ -3,7 +3,13 @@
 <!--
 **tardisgallifrey/tardisgallifrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+Things I like:</br>
+microcontrollers</br>
+single board computers</br>
+databases</br>
+web apps</br>
+graphics</br>
+Minecraft(Forge) modding</br>
   
   
 </br>
