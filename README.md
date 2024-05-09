@@ -4,23 +4,7 @@
 **tardisgallifrey/tardisgallifrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Public Repos:</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/Cfiles</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/ads1115</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/mcp4725</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/monitor</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/webtestmysql</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/gtkexamples3</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/ConsoleMath</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/opengl</br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/OpenTKNetCoreTutorial<br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/reactwebtemplate<br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/snowpackscript<br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/sqlbackup<br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/pico_dev<br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/vscode<br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/reactcomponents<br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/ES6Lesson<br>
-  &#160;&#160;&#160;&#160;&#160;--https://github.com/tardisgallifrey/blogapi<br>
+
   
   
 </br>
